@@ -1,0 +1,12 @@
+firebaseinstallations.googleapis.com
+lf16-tiktok-common.ibytedtos.com
+lf16-tiktok-web.ttwstatic.com
+mcs-va-useast2a.tiktokv.com
+mcs-va.tiktokv.com
+mon-va.byteoversea.com
+mssdk-va.tiktok.com
+p77-sign-va.tiktokcdn.com
+s20.tiktokcdn.com
+sf16-website-login.neutral.ttwstatic.com
+starling-oversea.byteoversea.com
+storage.googleapis.com
